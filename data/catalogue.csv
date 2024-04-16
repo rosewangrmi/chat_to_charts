@@ -1,0 +1,15 @@
+﻿City,The name of a city
+Country,The name of a country
+Country_ISO3,The ISO3 of a country
+Latitude,Latitude
+Longitude,Longitude
+Population,Population of the city
+Input_Data_Source,Input data source
+Year_Emissions,Year of the emissions are modeled for
+Emissions__Food__tons_CH4_year_,Emissions from food waste in tons CH4 per year
+Emissions__Green__tons_CH4_year_,Emissions from green waste in tons CH4 per year
+Emissions__Wood__tons_CH4_year_,Emissions from wood waste in tons CH4 per year
+Emissions__Paper_and_Cardboard__tons_CH4_year_,Emissions from paper and cardboard waste in tons CH4 per year
+Emissions__Textiles__tons_CH4_year_,Emissions from textile waste in tons CH4 per year
+Emissions__Total__tons_CH4_year_,Emissions of all waste in tons CH4 per year
+Emissions_per_Capita__kg_CH4_person_year_,Emissions per capita in kg per person per year
